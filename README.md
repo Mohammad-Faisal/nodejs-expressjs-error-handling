@@ -1,5 +1,7 @@
 ## Description of the project
 
+Read the full article: https://www.mohammadfaisal.dev/blog/error-handling-nodejs-express
+
 Today we will learn how we can handle errors in a ExpressJS application. There are several types of errors that can happen in an application.
 
 - Application Error
